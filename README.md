@@ -2,7 +2,7 @@
 
 基于 [zgldh/qiniu-laravel-storage](https://github.com/zgldh/qiniu-laravel-storage) / [qiniu/php-sdk](https://github.com/qiniu/php-sdk)。
 
-**本 fork：** PHP **^8.3（含 8.5）**，Laravel **>=10**（含 13）；Packagist 包名 `aoding9/qiniu-laravel-storage`。
+**本 fork：** PHP **^8.2（含 8.5）**，Laravel **>=10**（含 13）；Packagist 包名 `aoding9/qiniu-laravel-storage`。
 
 ## 注意
 

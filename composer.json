@@ -24,7 +24,7 @@
     }
   ],
   "require": {
-    "php": "^8.3",
+    "php": "^8.2",
     "qiniu/php-sdk": "^7.2",
     "league/flysystem": "^3.0",
     "illuminate/support": ">=10.0",
